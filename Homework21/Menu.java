@@ -5,7 +5,8 @@ import java.util.Scanner;
 
 public class Menu {
 
-
+// Домашня робота №22
+    
     public void menu() {
         Scanner scanner = new Scanner(System.in);
         boolean repeatMenu = true;
