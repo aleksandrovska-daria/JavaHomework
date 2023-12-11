@@ -4,6 +4,7 @@ import java.io.*;
 import java.util.Scanner;
 
 public class Homework28_2 {
+    
 //    Завдання 4:
 //Користувач вводить з клавіатури шлях до файлу, Після роботи
 //програми на екрані відображається кількість літер, чисел і
@@ -29,6 +30,7 @@ public class Homework28_2 {
                 punctuationAmount++;
             }
         }
+        
         System.out.println("Кількість літер у файлі =" + letterAmount);
         System.out.println("Кількість цифр у файлі =" + digitAmount);
         System.out.println("Кількість розділових знаків у файлі =" + punctuationAmount);
